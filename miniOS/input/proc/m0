@@ -1,0 +1,17 @@
+1 16
+alloc 13535 0
+alloc 1568 1
+alloc 1386 2
+alloc 4564 4
+alloc 6535 5
+alloc 1568 6
+alloc 1386 7
+alloc 4564 8
+free 0
+free 1
+free 2
+free 4
+free 5
+free 6
+free 7
+free 8
